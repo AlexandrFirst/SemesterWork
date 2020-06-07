@@ -1,0 +1,1 @@
+Type: SinglePlayer, Date: 07.06.2020, Name: alex, steps: 16, time: 7,800168, Result: Win

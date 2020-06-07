@@ -1,0 +1,11 @@
+Type: SinglePlayer, Date: 04.06.2020, Name: Alex21, steps: 0, time: 55,33626, Result: Win
+Type: SinglePlayer, Date: 04.06.2020, Name: asasa, steps: 0, time: 120,9872, Result: Win
+Type: SinglePlayer, Date: 04.06.2020, Name: asasasss12, steps: 231, time: 94,61546, Result: Win
+Type: SinglePlayer, Date: 04.06.2020, Name: asasasss12, steps: 49, time: 24,12656, Result: Win
+Type: SinglePlayer, Date: 04.06.2020, Name: Alex, steps: 61, time: 25,14486, Result: Win
+Type: Multiplayer, Date: 04.06.2020, Name: Alex1, Opponent's name: sanya, steps: 46, time: 158,19, Result: Lose
+Type: Multiplayer, Date: 04.06.2020, Name: alex45, Opponent's name: alex3, steps: 18, time: 80,24672, Result: Lose
+Type: SinglePlayer, Date: 05.06.2020, Name: alex, steps: 29, time: 13,38088, Result: Win
+Type: SinglePlayer, Date: 05.06.2020, Name: alex, steps: 21, time: 9,722423, Result: Win
+Type: SinglePlayer, Date: 05.06.2020, Name: alex, steps: 40, time: 17,86181, Result: Win
+Type: Multiplayer, Date: 07.06.2020, Name: alex1, Opponent's name: alex2, steps: 7, time: 146,0196, Result: Lose
